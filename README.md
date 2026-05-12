@@ -280,16 +280,22 @@ plt.show()
 
 ## Output:
 - **i)** Read and Display an Image.
- <img width="712" height="540" alt="image" src="https://github.com/user-attachments/assets/06fc5386-d2be-450e-b928-33ea78373dad" />
+<img width="653" height="511" alt="image" src="https://github.com/user-attachments/assets/0e1960bf-a44d-4c21-baf8-65830f2b24fa" />
+
+save image as PNG and Display
+<img width="652" height="506" alt="image" src="https://github.com/user-attachments/assets/e93009a6-9771-48b0-a40a-d580eff522ca" />
 
 - **ii)** Adjust Image Brightness.
- <img width="728" height="532" alt="image" src="https://github.com/user-attachments/assets/b0d99db6-633d-435b-a412-2b50b1004926" />
+<img width="758" height="199" alt="image" src="https://github.com/user-attachments/assets/b91da3a8-fc4c-4841-b83f-91fdd705a0e3" />
+
 
 - **iii)** Modify Image Contrast.
- <img width="921" height="298" alt="image" src="https://github.com/user-attachments/assets/032099e8-df5e-4111-a501-387c1d6cea5b" />
+ 
+<img width="758" height="196" alt="image" src="https://github.com/user-attachments/assets/e5472476-9eaf-4a58-bb18-117c35a8db11" />
 
 - **iv)** Generate Third Image Using Bitwise Operations.
-<img width="901" height="438" alt="image" src="https://github.com/user-attachments/assets/131c23bb-28f3-4419-a28c-0e09bc827f77" />
+<img width="754" height="197" alt="image" src="https://github.com/user-attachments/assets/600a607a-3177-42b6-8089-add81a1ce6a5" />
+
 
 ## Result:
 Thus, the images were read, displayed, brightness and contrast adjustments were made, and bitwise operations were performed successfully using the Python program.
